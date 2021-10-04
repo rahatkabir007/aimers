@@ -4,7 +4,7 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <div>
+        <div className="header">
             <Navbar expand="lg" className="navbar">
                 <Container>
                     <Navbar.Brand href="#" className="main-title">AIMERS</Navbar.Brand>
@@ -23,6 +23,11 @@ const Header = () => {
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
+            <div className=" intro-area">
+                <h2>Let's Learn At The Best Place Together</h2>
+                <a href="/home">Let's Get Started</a>
+               
+            </div>
         </div>
     );
 };
