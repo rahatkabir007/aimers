@@ -1,0 +1,83 @@
+[
+    {
+        "key": "T2RbRUKDYg",
+        "image": "https://preview.colorlib.com/theme/clever/img/bg-img/xc5.jpg.pagespeed.ic.zR1A83Vqwq.webp",
+        "title": "Visual Editing",
+        "teacher": "Rahat Kabir",
+        "description": "Visual editing is a form of computer text editing often used in programming that displays changes immediately through a visual interface.Visual editing is now typically used in programming since it allows a programmer to see changes as they occur.",
+        "price": "40",
+        "rating": "4.7"
+    },
+    {
+        "key": "nhJsJhUtV4",
+        "image": "https://preview.colorlib.com/theme/clever/img/bg-img/xc1.jpg.pagespeed.ic.qGX3q1E8lO.webp",
+        "title": "Painting",
+        "teacher": "Nilufar Yasmin",
+        "description": "Painting is the practice of applying paint, pigment, color or other medium to a solid surface The medium is commonly applied to the base with a brush",
+        "price": "30",
+        "rating": "4.0"
+    },
+    {
+        "key": "89rz4pJeSp",
+        "image": "https://preview.colorlib.com/theme/clever/img/bg-img/xc2.jpg.pagespeed.ic.GhU8VsC3NK.webp",
+        "title": "Art",
+        "teacher": "Jamal Bhuiyan",
+        "description": "Art is a wide range of human activities that involve creative imagination and an aim to express technical proficiency, beauty, emotional power, or conceptual ideas. There is no generally agreed definition of what constitutes art, and ideas have changed over time.",
+        "price": "Free",
+        "rating": "4.2"
+    },
+    {
+        "key": "hhy2uWrSga",
+        "image": "https://preview.colorlib.com/theme/clever/img/bg-img/xc3.jpg.pagespeed.ic.7WwfEG8nlc.webp",
+        "title": "Dance",
+        "teacher": "Sarah Rahman",
+        "description": "Dance is a performing art form consisting of sequences of movement, either improvised or purposefully selected. This movement has aesthetic and often symbolic value. Dance can be categorized and described by its choreography, by its repertoire of movements, or by its historical period or place of origin.",
+        "price": "35",
+        "rating": "4.4"
+    },
+    {
+        "key": "HCTWRfju5m",
+        "image": "https://preview.colorlib.com/theme/clever/img/bg-img/xc4.jpg.pagespeed.ic.J6gQ_qWzv0.webp",
+        "title": "Literature",
+        "teacher": "Kabir Chowdhury",
+        "description": "Literature broadly is any collection of written work, but it is also used more narrowly for writings specifically considered to be an art form, especially prose fiction, drama, and poetry. In recent centuries, the definition has expanded to include oral literature, much of which has been transcribed.",
+        "price": "28",
+        "rating": "4.0"
+    },
+    {
+        "key": "urCwU2knYP",
+        "image": "https://preview.colorlib.com/theme/clever/img/bg-img/xc6.jpg.pagespeed.ic.2LrMScl1Lf.webp",
+        "title": "Crafting",
+        "teacher": "Rabbi Hossain",
+        "description": "A craft or trade is a pastime or an occupation that requires particular skills and knowledge of skilled work. In a historical sense, particularly the Middle Ages and earlier, the term is usually applied to people occupied in small scale production of goods, or their maintenance, for example by tinkers.",
+        "price": "32",
+        "rating": "4.1"
+    },
+    {
+        "key": "YEcpwK42Jv",
+        "image": "https://preview.colorlib.com/theme/clever/img/bg-img/xc7.jpg.pagespeed.ic.opQdOjNCLQ.webp",
+        "title": "English Grammer",
+        "teacher": "Amjad Hossain",
+        "description": "English grammar is the way in which meanings are encoded into wordings in the English language. This includes the structure of words, phrases, clauses, sentences, and whole texts.",
+        "price": "Free",
+        "rating": "4.3"
+    },
+    {
+        "key": "fRQxSr9xxh",
+        "image": "https://preview.colorlib.com/theme/clever/img/bg-img/xc8.jpg.pagespeed.ic.tbfWfYZRyh.webp",
+        "title": "Vocabulary",
+        "teacher": "Kamal Chowdhury",
+        "description": "A vocabulary is a set of familiar words within a person's language. A vocabulary, usually developed with age, serves as a useful and fundamental tool for communication and acquiring knowledge. Acquiring an extensive vocabulary is one of the largest challenges in learning a second language.",
+        "price": "30",
+        "rating": "4.0"
+    },
+    {
+        "key": "2fvCEChKJR",
+        "image": "https://preview.colorlib.com/theme/clever/img/bg-img/c9.jpg",
+        "title": "Expository writing",
+        "teacher": "Ehsan Niloy",
+        "description": "An exploratory writing is, in essence, a retrospective of your writing and thinking process as you work through a problem. It describes when, how, and why you completed certain types of research. This kind of writing is about how you work through problems that require writing and research.",
+        "price": "Free",
+        "rating": "4.2"
+    }
+]
