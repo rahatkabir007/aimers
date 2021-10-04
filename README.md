@@ -13,6 +13,7 @@ Project Name - Aimers - A Small Educational Institution Based Website. Details o
 - Heading part is divided by two components with their individual JS and CSS files.
 - The Heading part has Navbar and A Hero Section to introduce the website to the user.
 - Main Body Is divided into three part. 1) About Section 2)Service Section 3) Blog Section.
+- - With every nav button we can go to the Service Page, Blog Page And About Page where i showed different type of datas!
 - The UI is really clean. I have used React Bootstrap and Bootstrap CDN both.
 - I also did some pure CSS to customize some part of the UI.
 
