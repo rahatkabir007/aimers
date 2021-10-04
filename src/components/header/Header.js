@@ -5,7 +5,7 @@ import './Header.css';
 const Header = () => {
     return (
         <div className="header">
-            <Navbar expand="lg" className="navbar">
+            <Navbar sticky="top"  expand="lg" className="navbar">
                 <Container>
                     <Navbar.Brand href="#" className="main-title">AIMERS</Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />

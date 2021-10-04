@@ -9,6 +9,9 @@
 }
 .navbar{
     padding-top: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    ;
+    position: sticky;
 }
 .main-title{
     font-weight: 600;
@@ -21,20 +24,28 @@
 }
 .middle-area #middle-link{
     color: #fff;
+     transition: 0.5s;
 }
 .middle-area #middle-link:hover{
-    color: black;
+    background-color: rgba(144, 206, 198, 0.479);
+    border: 1px solid rgba(144, 206, 198, 0.479);
+    border-radius: 5px;
+    overflow: hidden;
 }
 .right-area{
-    padding: 5px;
+   margin-right: 15px;
 }
 .right-area #right-link{
     color:#fff;
+     transition: 0.5s;
+    
 }
 .right-area #right-link:hover{
     background-color: rgba(144, 206, 198, 0.479);
     border: 1px solid rgba(144, 206, 198, 0.479);
     border-radius: 5px;
+     overflow: hidden;
+    
 }
 .intro-area{
     position: absolute;
@@ -58,6 +69,7 @@
     text-decoration: none;
     color: #fff;
     margin-top: 25px;
+    transition: 0.5s;
 }
 .intro-area a:hover{
      background-color: rgba(144, 206, 198, 0.479);
