@@ -1,0 +1,25 @@
+.navbar{
+    margin-top: 20px;
+}
+.main-title{
+    font-weight: 600;
+    font-size: 34px;
+}
+.middle-area, .right-area{
+    font-size: 20px;
+}
+.middle-area #middle-link:hover{
+    color: black;
+}
+.right-area{
+    padding: 5px;
+}
+.right-area #right-link{
+    color: #0A043C;
+}
+.right-area #right-link:hover{
+    background-color: rgba(144, 206, 198, 0.479);
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
