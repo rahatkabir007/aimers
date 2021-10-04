@@ -1,0 +1,62 @@
+.card{
+    border-radius: 10px;
+}
+#title{
+    color: rgba(0, 0, 0, .8);
+    line-height: 1.3;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+#teacher{
+    color: rgba(0, 0, 0, .4);
+    font-size: 14px;
+    font-weight: 400;
+    margin-right: 10px;
+}
+#description{
+    color: #5a5a5a;
+    font-size: 14px;
+    line-height: 1.8;
+    font-weight: 400;
+}
+#description a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+.card-footer{
+    padding: 0px;
+    width: 100%;
+    height: 40px;
+    background-color: #f7f7f7;
+    border-top: none !important;
+    border-radius: 0px 0px 6px 6px !important;
+}
+.rating{
+    padding: 0 20px;
+    border-right: 1px solid #ebebeb;
+    height: 100%;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.774);
+    font-weight: 600;
+}
+.rating p {
+    margin: 0px;
+}
+.price{
+    margin: 0px;
+}
+.price a{
+    display: inline-block;
+    width: 70px;
+    height: 40px;
+    border-radius: 0 0 6px 0;
+    text-align: center;
+    line-height: 40px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: .75px;
+    text-decoration: none;
+}

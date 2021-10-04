@@ -1,0 +1,44 @@
+[
+    {
+        "key": "6xypK7f6Pj",
+        "image": "https://images.pexels.com/photos/209948/pexels-photo-209948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "title": "Dance",
+        "teacher": "Sarah Rahman",
+        "description": "Dance is a performing art form consisting of sequences of movement, either improvised or purposefully selected. This movement has aesthetic and often symbolic value. Dance can be categorized and described by its choreography, by its repertoire of movements, or by its historical period or place of origin."
+    },
+    {
+        "key": "Y58ucQpHv2",
+        "image": "https://images.pexels.com/photos/1301585/pexels-photo-1301585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "title": "Literature",
+        "teacher": "Kabir Chowdhury",
+        "description": "Literature broadly is any collection of written work, but it is also used more narrowly for writings specifically considered to be an art form, especially prose fiction, drama, and poetry. In recent centuries, the definition has expanded to include oral literature, much of which has been transcribed."
+    },
+    {
+        "key": "cBb5nh4fwu",
+        "image": "https://images.pexels.com/photos/3945634/pexels-photo-3945634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "title": "Crafting",
+        "teacher": "Rabbi Hossain",
+        "description": "A craft or trade is a pastime or an occupation that requires particular skills and knowledge of skilled work. In a historical sense, particularly the Middle Ages and earlier, the term is usually applied to people occupied in small scale production of goods, or their maintenance, for example by tinkers."
+    },
+    {
+        "key": "u2JS9dWYX2",
+        "image": "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "title": "English Grammer",
+        "teacher": "Amjad Hossain",
+        "description": "English grammar is the way in which meanings are encoded into wordings in the English language. This includes the structure of words, phrases, clauses, sentences, and whole texts."
+    },
+    {
+        "key": "Ycfdfmtvd8",
+        "image": "https://images.pexels.com/photos/6143818/pexels-photo-6143818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "title": "Expository writing",
+        "teacher": "Ehsan Niloy",
+        "description": "An exploratory writing is, in essence, a retrospective of your writing and thinking process as you work through a problem. It describes when, how, and why you completed certain types of research. This kind of writing is about how you work through problems that require writing and research."
+    },
+    {
+        "key": "cjTTxEa6WV",
+        "image": "https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "title": "Vocabulary",
+        "teacher": "Kamal Chowdhury",
+        "description": "A vocabulary is a set of familiar words within a person's language. A vocabulary, usually developed with age, serves as a useful and fundamental tool for communication and acquiring knowledge. Acquiring an extensive vocabulary is one of the largest challenges in learning a second language."
+    }
+]
