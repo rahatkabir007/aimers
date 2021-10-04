@@ -1,5 +1,6 @@
 import React from 'react';
 import { Form, FormControl, Button } from 'react-bootstrap';
+import { NavLink } from 'react-router-dom';
 import "./Footer.css"
 
 const Footer = () => {
@@ -8,10 +9,10 @@ const Footer = () => {
             <div className="d-flex justify-content-around align-items-center second-section">
                 <div className="list-items">
                     <ul>
-                        <li><a href="/home">Home</a></li>
-                        <li><a href="/services">Services</a></li>
-                        <li><a href="/blog">Blog</a></li>
-                        <li><a href="/aboutus">About Us</a></li>
+                        <li> <NavLink to='/home'>Home</NavLink></li>
+                        <li> <NavLink to='/services'>Services</NavLink></li>
+                        <li> <NavLink to='/blog'>Blog</NavLink></li>
+                        <li> <NavLink to='/aboutus'>About Us</NavLink></li>
                     </ul>
                 </div>
                 <div className="contact-us">

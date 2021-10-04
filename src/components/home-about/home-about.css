@@ -14,3 +14,40 @@
     background-color: rgba(144, 206, 198, 0.479);
     color: black;
 }
+
+/* Mobile device */
+@media only screen and (max-width:688px) {
+.aboutus-container{
+    text-align: center;
+}
+.image{
+     width: 100%;
+      margin: 15px auto;
+     
+}
+.info{
+     width: 100%;
+      margin: 0 auto;
+}
+    
+}
+
+
+/* Tab */
+@media only screen and (min-width: 688px) and (max-width: 992px) {
+.aboutus-container {
+    text-align: center;
+}
+
+.image {
+    width: 100%;
+    margin: 15px auto;
+
+}
+
+.info {
+    width: 100%;
+    margin: 0 auto;
+}
+
+}

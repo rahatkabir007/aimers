@@ -16,7 +16,7 @@ const MainServices = () => {
     return (
         <div className="main-service-section">
             <div className="container p-5">
-                <div className="service-title">
+                <div className="heading-title">
                     <h1 className="text-center p-3">Our Services</h1>
                 </div>
 

@@ -6,9 +6,9 @@ import './Header.css';
 const Header = () => {
     return (
         <div className="header">
-            <Navbar sticky="top"  expand="lg" className="navbar">
+            <Navbar fixed="top"  expand="lg" className="navbar">
                 <Container>
-                    <Navbar.Brand href="#" className="main-title">AIMERS</Navbar.Brand>
+                    <Navbar.Brand href="#" className="main-title"><NavLink to="/home" style={{color:"white",textDecoration:"none"}}>AIMERS</NavLink></Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
                         <Nav className="mx-auto middle-area">

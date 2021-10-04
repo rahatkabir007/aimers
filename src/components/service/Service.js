@@ -1,5 +1,6 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
+import { NavLink } from 'react-router-dom';
 import './Service.css'
 
 const Service = (props) => {
@@ -15,7 +16,7 @@ const Service = (props) => {
                             {teacher}
                         </Card.Text>
                         <Card.Text id="description">
-                            {description.slice(0,150)}.... <a href="/services">See More</a>
+                            {description.slice(0,150)}.... <NavLink to="/services">See More</NavLink>
                         </Card.Text>
                     </Card.Body>
                     <Card.Footer className='card-footer'>

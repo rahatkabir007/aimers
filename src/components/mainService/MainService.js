@@ -14,7 +14,7 @@ const MainService = (props) => {
                             {teacher}
                         </Card.Text>
                         <Card.Text id="description">
-                            {description.slice(0, 150)}.... <a href="/services">See More</a>
+                            {description}
                         </Card.Text>
                     </Card.Body>
                     <Card.Footer className='card-footer'>
