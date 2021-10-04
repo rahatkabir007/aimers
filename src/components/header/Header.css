@@ -5,6 +5,7 @@
     background-size: cover;
     height: 600px;
     backdrop-filter: blur(5px);
+    margin-bottom: 20px;
 }
 .navbar{
     padding-top: 20px;
@@ -57,5 +58,8 @@
     text-decoration: none;
     color: #fff;
     margin-top: 25px;
+}
+.intro-area a:hover{
+     background-color: rgba(144, 206, 198, 0.479);
 }
 

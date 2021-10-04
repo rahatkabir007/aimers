@@ -1,0 +1,38 @@
+.footer{
+    background-color: #222831;
+    color: #fff;
+    text-align: center;
+   overflow: hidden;
+    box-sizing: border-box;
+}
+.second-section{
+    padding-top: 40px;
+}
+.list-items ul li{
+    list-style-type: none;
+    text-align: left;
+     padding: 5px;
+}
+.list-items ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+.list-items ul li a:hover{
+    color: rgba(144, 206, 198, 0.479);
+}
+
+.contact-us ul li {
+    list-style-type: none;
+    text-align: center;
+    padding: 5px;
+}
+.subscribe{
+     text-align: right;
+     padding: 5px;
+}
+
+.copyright-text{
+    color: #fff;
+    font-size: 10px;
+    margin-top: 10px;
+}
